@@ -1,6 +1,3 @@
-# work-experience
-Work Experience
-
 You are acting as a Principal Software Architect, Staff Backend Engineer, Distributed Systems Engineer, Payments Architect, Production/SRE Engineer, and technical interviewer.
 I am preparing a comprehensive technical understanding of the payment platform/project documented in our Confluence.
 Your task is NOT to simply summarize the first few Confluence pages you find.
